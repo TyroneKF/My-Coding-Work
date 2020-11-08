@@ -1,2 +1,2 @@
-# My-Coding-Work
+# Tyrone Friday Profolio
 Computer Science  profolio

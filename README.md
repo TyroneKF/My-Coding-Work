@@ -1,5 +1,4 @@
-# Tyrone Friday
-# Computer Science Coding Profolio
+# Tyrone Friday's Computer Science Coding Profolio
 
 Welcome, to my Github page.
 
@@ -21,4 +20,4 @@ Sorry, I haven't managed to get around to creating any personal projects but, he
 
 ##  [CO383 ]- Problem Solving With Algorithms [CO383]
 ###  Assignment 1 
-[Assignment 1 [CO383] -Problem Solving With Algorithms   (Chasing-Bombs GUI Game)](https://github.com/TyroneKF/A3---Further-Object-Orientated-Programming-CO520-)               
+[Assignment 1 [CO383] - Problem Solving With Algorithms  (Normal Polish notation (NPN))](https://github.com/TyroneKF/A3-Problem-Solving-With-Algorithms-CO383-)               

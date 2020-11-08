@@ -1,4 +1,5 @@
-# Tyrone Friday Computer Science Coding Profolio
+# Tyrone Friday
+# Computer Science Coding Profolio
 
 Welcome, to my Github page.
 

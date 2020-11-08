@@ -1,11 +1,10 @@
 # Tyrone Friday Computer Science Coding Profolio
-Computer Science  profolio
 
 Welcome, to my Github page.
 
 ![tenor](https://user-images.githubusercontent.com/74104140/98485844-3857d200-2211-11eb-8e6c-5bd41cc3f02b.gif)
 
-Sorry, I haven't managed to get around to creating a personal projects but, here is some of the projects I have done at the University  Of Kent.
+Sorry, I haven't managed to get around to creating any personal projects but, here is some of the projects I have done whilst at The University  Of Kent.
 
 
 ## Algorithms, Correctness & Efficiency [CO518]

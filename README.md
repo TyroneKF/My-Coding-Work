@@ -3,7 +3,9 @@ Computer Science  profolio
 
 Sorry, I haven't managed to get around to creating a personal projects but, here is some of the projects I have done at the University  Of Kent.
 
- ## Algorithms, Correctness & Efficiency [CO518]
+
+## Algorithms, Correctness & Efficiency [CO518]
+
 [Assignment 1 [CO518]](https://github.com/TyroneKF/A1-Algorithms-Correctness-Efficiency-CO518-)
 
 ##   Further Object Orientated Programming [CO520] 

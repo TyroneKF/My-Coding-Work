@@ -18,6 +18,6 @@ Sorry, I haven't managed to get around to creating any personal projects but, he
 ### Assignment 3 
 [Assignment 3 [CO520] Further OOP (Chasing-Bombs GUI Game)](https://github.com/TyroneKF/A3-Further-Object-Orientated-Programming-CO520-)
 
-##  [CO383 ]- Problem Solving With Algorithms [CO383]
+## Problem Solving With Algorithms [CO383]
 ###  Assignment 1 
 [Assignment 1 [CO383] - Problem Solving With Algorithms  (Normal Polish notation (NPN))](https://github.com/TyroneKF/A3-Problem-Solving-With-Algorithms-CO383-)               

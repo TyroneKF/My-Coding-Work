@@ -8,7 +8,7 @@ Sorry, I haven't managed to get around to creating any personal projects but, he
 
 
 ## Algorithms, Correctness & Efficiency [CO518]
-
+![Capture](https://user-images.githubusercontent.com/74104140/98492434-bd51e400-222f-11eb-8840-87916f7fd1ee.PNG)
 [Assignment 1 [CO518]](https://github.com/TyroneKF/A1-Algorithms-Correctness-Efficiency-CO518-)
 
 ##   Further Object Orientated Programming [CO520] 
@@ -20,4 +20,5 @@ Sorry, I haven't managed to get around to creating any personal projects but, he
 
 ## Problem Solving With Algorithms [CO383]
 ###  Assignment 1 
+
 [Assignment 1 [CO383] - Problem Solving With Algorithms  (Normal Polish notation (NPN))](https://github.com/TyroneKF/A3-Problem-Solving-With-Algorithms-CO383-)               

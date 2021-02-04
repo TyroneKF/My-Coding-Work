@@ -26,4 +26,4 @@ Sorry, I haven't managed to get around to creating any personal projects but, he
 ## Databases & Web [CO323]
 ###  Assignment 1
 
-[Assignment 1 [CO23] - Knots & Crosses](https://github.com/TyroneKF/Assigment-Databases-Web-)               
+[Assignment 1 [CO23] - Knots & Crosses (Game) ](https://github.com/TyroneKF/Assigment-Databases-Web-)               

@@ -22,3 +22,8 @@ Sorry, I haven't managed to get around to creating any personal projects but, he
 ###  Assignment 1 
 
 [Assignment 1 [CO383] - Problem Solving With Algorithms  (Normal Polish notation (NPN))](https://github.com/TyroneKF/A3-Problem-Solving-With-Algorithms-CO383-)               
+
+## Databases & Web [CO323]
+###  Assignment 1
+
+[Assignment 1 [CO23] - Knots & Crosses](https://github.com/TyroneKF/Assigment-Databases-Web-)               
